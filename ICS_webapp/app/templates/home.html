@@ -1,0 +1,18 @@
+{% extends "base.html" %} {% block title %}Home{% endblock %}
+    {% block content %}
+    <form method="POST" action="{{url_for('results') }}">
+        <h3 align="center">ICS Module Test</h3>
+        <div class="image-in">
+            <label for="url">Image URL</label>
+            <input
+                type="text"
+                class="image-in"
+                id="url"
+                name="url"
+                placeholder="Enter URL here"
+            />
+        </div>
+        <br />
+        <button type="submit" class="btn btn-primary">Submit</button>
+    </form>
+    {% endblock %}
