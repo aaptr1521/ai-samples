@@ -1,0 +1,7 @@
+flask v3.0.0
+pillow v10.0.1
+transformers v4.34.0
+requests v2.31.0
+torch v2.1.0
+torchvision v0.16.0
+opencv-python v4.8.1.78
