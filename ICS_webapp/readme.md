@@ -1,1 +1,1 @@
-Web app implementation of Image Capture Sampling model. 
+Web app implementation of Image Captioning Sample model. 
