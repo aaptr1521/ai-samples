@@ -1,0 +1,63 @@
+fk_id,symbol,name,industry,country
+0,USD,us dollar,finance,usa
+1,LVMUY,lvmh,luxury goods,france
+2,PG,procter & gamble,consumer goods,usa
+3,LUV,southwest airlines,aviation,usa
+4,SQ,block,financial services,usa
+5,MSFT,microsoft,technology,usa
+6,PINS,pinterest,social media,usa
+7,COIN,coinbase,cryptocurrency,usa
+8,MAR,marriott,hospitality,usa
+9,CSCO,cisco,technology,usa
+10,MA,mastercard,finance,usa
+11,ZM,zoom video communications,technology,usa
+12,ADBE,adobe,technology,usa
+13,ADDYY,adidas,apparel,germany
+14,PMMAF,puma,apparel,germany
+15,AAPL,apple,technology,usa
+16,CROX,crocs,footwear,usa
+17,JNJ,johnson & johnson,healthcare,usa
+18,AXP,american express,finance,usa
+19,UBER,uber,technology,usa
+20,CMG,chipotle,food,usa
+21,UL,unilever,consumer goods,netherlands
+22,NFLX,netflix,entertainment,usa
+23,POAHY,porsche,automotive,germany
+24,MMM,3m,manufacturing,usa
+25,AMZN,amazon,e-commerce,usa
+26,FL,foot locker,footwear,usa
+27,UBSFY,ubisoft,gaming,france
+28,COST,costco,retail,usa
+29,BAMXF,bmw group,automotive,germany
+30,SPOT,spotify,music,usa
+31,HD,the home depot,retail,usa
+32,DAL,delta air lines,aviation,usa
+33,LOGI,logitech,technology,switzerland
+34,DIS,the walt disney company,entertainment,usa
+35,TGT,target,retail,usa
+36,CRM,salesforce / slack,technology,usa
+37,MCD,mcdonald's,food,usa
+38,V,visa,finance,usa
+39,ABNB,airbnb,hospitality,usa
+40,SBUX,starbucks,food & beverage,usa
+41,HLT,hilton,hospitality,usa
+42,TM,toyota,automotive,japan
+43,HSY,hershey company,food & beverage,usa
+44,AMD,amd,technology,usa
+45,JWN,nordstrom,retail,usa
+46,TSLA,tesla,automotive,usa
+47,PTON,peloton,fitness,usa
+48,HMC,honda,automotive,japan
+49,NKE,nike,apparel,usa
+50,SHOP,shopify,e-commerce,canada
+51,PHG,philips,technology,netherlands
+52,JPM,jpmorgan chase & co,finance,usa
+53,FDX,fedex,logistics,usa
+54,NTDOY,nintendo,gaming,japan
+55,KO,the coca-cola company,food & beverage,usa
+56,NVDA,nvidia,technology,usa
+57,ZI,zoominfo,technology,usa
+58,RBLX,roblox,gaming,usa
+59,AEO,american eagle outfitters,apparel,usa
+60,GOOGL,google,technology,usa
+61,CL,colgate palmolive,consumer goods,usa
